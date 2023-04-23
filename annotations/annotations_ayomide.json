@@ -1,0 +1,6520 @@
+{
+    "Art Studios_1.JPG": {
+        "filename": "Art Studios_1.JPG",
+        "size": 1678383,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 171,
+                    "width": 3003,
+                    "height": 2404
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_10.JPG": {
+        "filename": "Art Studios_10.JPG",
+        "size": 365378,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 39,
+                    "width": 1891,
+                    "height": 714
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_11.JPG": {
+        "filename": "Art Studios_11.JPG",
+        "size": 112552,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 19,
+                    "width": 1106,
+                    "height": 271
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_12.JPG": {
+        "filename": "Art Studios_12.JPG",
+        "size": 165211,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 18,
+                    "width": 1496,
+                    "height": 314
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_13.JPG": {
+        "filename": "Art Studios_13.JPG",
+        "size": 290771,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 26,
+                    "width": 2000,
+                    "height": 448
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_14.JPG": {
+        "filename": "Art Studios_14.JPG",
+        "size": 371152,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 38,
+                    "width": 2083,
+                    "height": 501
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_15.JPG": {
+        "filename": "Art Studios_15.JPG",
+        "size": 404853,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 35,
+                    "width": 2423,
+                    "height": 563
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_16.JPG": {
+        "filename": "Art Studios_16.JPG",
+        "size": 704537,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 89,
+                    "width": 2641,
+                    "height": 1335
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_17.JPG": {
+        "filename": "Art Studios_17.JPG",
+        "size": 1046549,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 159,
+                    "width": 2936,
+                    "height": 1912
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_18.JPG": {
+        "filename": "Art Studios_18.JPG",
+        "size": 1198229,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112,
+                    "y": 137,
+                    "width": 3024,
+                    "height": 2192
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_19.JPG": {
+        "filename": "Art Studios_19.JPG",
+        "size": 436730,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 96,
+                    "width": 1638,
+                    "height": 1154
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_2.JPG": {
+        "filename": "Art Studios_2.JPG",
+        "size": 1680915,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 211,
+                    "width": 2713,
+                    "height": 2755
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_20.JPG": {
+        "filename": "Art Studios_20.JPG",
+        "size": 705952,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 143,
+                    "width": 2377,
+                    "height": 1724
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_21.JPG": {
+        "filename": "Art Studios_21.JPG",
+        "size": 839481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 112,
+                    "width": 2606,
+                    "height": 1572
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_22.JPG": {
+        "filename": "Art Studios_22.JPG",
+        "size": 1087779,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 104,
+                    "width": 3023,
+                    "height": 1666
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_23.JPG": {
+        "filename": "Art Studios_23.JPG",
+        "size": 1208509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 137,
+                    "width": 3024,
+                    "height": 2058
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_24.JPG": {
+        "filename": "Art Studios_24.JPG",
+        "size": 1280066,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 212,
+                    "width": 2510,
+                    "height": 3192
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_25.JPG": {
+        "filename": "Art Studios_25.JPG",
+        "size": 578324,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 111,
+                    "width": 1838,
+                    "height": 1335
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_26.JPG": {
+        "filename": "Art Studios_26.JPG",
+        "size": 924110,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 116,
+                    "width": 3013,
+                    "height": 1635
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_27.JPG": {
+        "filename": "Art Studios_27.JPG",
+        "size": 883283,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 105,
+                    "width": 2542,
+                    "height": 1576
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_28.JPG": {
+        "filename": "Art Studios_28.JPG",
+        "size": 670579,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 87,
+                    "width": 2264,
+                    "height": 1484
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_29.JPG": {
+        "filename": "Art Studios_29.JPG",
+        "size": 1113760,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 105,
+                    "width": 2880,
+                    "height": 1584
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_3.JPG": {
+        "filename": "Art Studios_3.JPG",
+        "size": 1688658,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 143,
+                    "width": 2930,
+                    "height": 2445
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_30.JPG": {
+        "filename": "Art Studios_30.JPG",
+        "size": 1154555,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 137,
+                    "width": 2972,
+                    "height": 1783
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_4.JPG": {
+        "filename": "Art Studios_4.JPG",
+        "size": 928328,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 117,
+                    "width": 2800,
+                    "height": 1409
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_5.JPG": {
+        "filename": "Art Studios_5.JPG",
+        "size": 956511,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 153,
+                    "width": 2927,
+                    "height": 2154
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_6.JPG": {
+        "filename": "Art Studios_6.JPG",
+        "size": 669292,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 77,
+                    "width": 2753,
+                    "height": 1009
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_7.JPG": {
+        "filename": "Art Studios_7.JPG",
+        "size": 655157,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 61,
+                    "width": 2676,
+                    "height": 1040
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_8.JPG": {
+        "filename": "Art Studios_8.JPG",
+        "size": 790108,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 66,
+                    "width": 2851,
+                    "height": 1201
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Art Studios_9.JPG": {
+        "filename": "Art Studios_9.JPG",
+        "size": 482271,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 72,
+                    "width": 2323,
+                    "height": 865
+                },
+                "region_attributes": {
+                    "class": "Art Studios"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_1.JPG": {
+        "filename": "Aldi Wallisdown_1.JPG",
+        "size": 1046835,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 123,
+                    "width": 2900,
+                    "height": 1479
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_2.JPG": {
+        "filename": "Aldi Wallisdown_2.JPG",
+        "size": 959659,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 107,
+                    "width": 2340,
+                    "height": 1611
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_3.JPG": {
+        "filename": "Aldi Wallisdown_3.JPG",
+        "size": 1006368,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 90,
+                    "width": 3024,
+                    "height": 1441
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_4.JPG": {
+        "filename": "Aldi Wallisdown_4.JPG",
+        "size": 1427376,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 86,
+                    "width": 4032,
+                    "height": 1379
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_5.JPG": {
+        "filename": "Aldi Wallisdown_5.JPG",
+        "size": 1086250,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 102,
+                    "width": 3024,
+                    "height": 1644
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_6.JPG": {
+        "filename": "Aldi Wallisdown_6.JPG",
+        "size": 1253195,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 143,
+                    "width": 3024,
+                    "height": 1716
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_7.JPG": {
+        "filename": "Aldi Wallisdown_7.JPG",
+        "size": 1060258,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 96,
+                    "width": 2547,
+                    "height": 1542
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Aldi Wallisdown_8.JPG": {
+        "filename": "Aldi Wallisdown_8.JPG",
+        "size": 1121582,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 115,
+                    "width": 3024,
+                    "height": 1615
+                },
+                "region_attributes": {
+                    "class": "Aldi Wallisdown"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_1.JPG": {
+        "filename": "Arts Bar_1.JPG",
+        "size": 1268375,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 146,
+                    "width": 2724,
+                    "height": 2191
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_10.JPG": {
+        "filename": "Arts Bar_10.JPG",
+        "size": 1682127,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 219,
+                    "width": 2711,
+                    "height": 3072
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_11.JPG": {
+        "filename": "Arts Bar_11.JPG",
+        "size": 1360786,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 177,
+                    "width": 2800,
+                    "height": 2312
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_12.JPG": {
+        "filename": "Arts Bar_12.JPG",
+        "size": 1546337,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 148,
+                    "width": 2852,
+                    "height": 1784
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_13.JPG": {
+        "filename": "Arts Bar_13.JPG",
+        "size": 1237192,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 103,
+                    "width": 2642,
+                    "height": 1654
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_14.JPG": {
+        "filename": "Arts Bar_14.JPG",
+        "size": 1623291,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 128,
+                    "width": 3024,
+                    "height": 1542
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_15.JPG": {
+        "filename": "Arts Bar_15.JPG",
+        "size": 1515715,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 103,
+                    "width": 2866,
+                    "height": 1756
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_16.JPG": {
+        "filename": "Arts Bar_16.JPG",
+        "size": 1306630,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 99,
+                    "width": 2240,
+                    "height": 1696
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_17.JPG": {
+        "filename": "Arts Bar_17.JPG",
+        "size": 1343920,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 151,
+                    "width": 2907,
+                    "height": 1820
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_18.JPG": {
+        "filename": "Arts Bar_18.JPG",
+        "size": 848323,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 139,
+                    "width": 2254,
+                    "height": 1812
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_19.JPG": {
+        "filename": "Arts Bar_19.JPG",
+        "size": 1076494,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 117,
+                    "width": 2325,
+                    "height": 1766
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_2.JPG": {
+        "filename": "Arts Bar_2.JPG",
+        "size": 576872,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 86,
+                    "width": 2473,
+                    "height": 1387
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_20.JPG": {
+        "filename": "Arts Bar_20.JPG",
+        "size": 1602098,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 183,
+                    "width": 3024,
+                    "height": 3301
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_21.JPG": {
+        "filename": "Arts Bar_21.JPG",
+        "size": 1502968,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 264,
+                    "width": 2614,
+                    "height": 3175
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_22.JPG": {
+        "filename": "Arts Bar_22.JPG",
+        "size": 1019556,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 160,
+                    "width": 3023,
+                    "height": 2885
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_23.JPG": {
+        "filename": "Arts Bar_23.JPG",
+        "size": 1325807,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 196,
+                    "width": 3024,
+                    "height": 3141
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_24.JPG": {
+        "filename": "Arts Bar_24.JPG",
+        "size": 860500,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 117,
+                    "width": 2695,
+                    "height": 2111
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_25.JPG": {
+        "filename": "Arts Bar_25.JPG",
+        "size": 1262209,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 203,
+                    "width": 3008,
+                    "height": 2853
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_3.JPG": {
+        "filename": "Arts Bar_3.JPG",
+        "size": 615497,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 68,
+                    "width": 2287,
+                    "height": 1164
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_4.JPG": {
+        "filename": "Arts Bar_4.JPG",
+        "size": 660416,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 104,
+                    "width": 2525,
+                    "height": 1459
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_5.JPG": {
+        "filename": "Arts Bar_5.JPG",
+        "size": 1104958,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 167,
+                    "width": 2835,
+                    "height": 2182
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_6.JPG": {
+        "filename": "Arts Bar_6.JPG",
+        "size": 1420642,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 215,
+                    "width": 3023,
+                    "height": 2589
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_7.JPG": {
+        "filename": "Arts Bar_7.JPG",
+        "size": 743217,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 145,
+                    "width": 1725,
+                    "height": 2480
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_8.JPG": {
+        "filename": "Arts Bar_8.JPG",
+        "size": 1644147,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 169,
+                    "width": 3007,
+                    "height": 3054
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts Bar_9.JPG": {
+        "filename": "Arts Bar_9.JPG",
+        "size": 1490037,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 185,
+                    "width": 3024,
+                    "height": 2969
+                },
+                "region_attributes": {
+                    "class": "Arts Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_1.JPG": {
+        "filename": "Arts BU Library_1.JPG",
+        "size": 1195431,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 132,
+                    "width": 3023,
+                    "height": 1849
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_10.JPG": {
+        "filename": "Arts BU Library_10.JPG",
+        "size": 742051,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 95,
+                    "width": 2099,
+                    "height": 1619
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_11.JPG": {
+        "filename": "Arts BU Library_11.JPG",
+        "size": 1308476,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 159,
+                    "width": 2651,
+                    "height": 2546
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_12.JPG": {
+        "filename": "Arts BU Library_12.JPG",
+        "size": 1863642,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 164,
+                    "width": 3023,
+                    "height": 2964
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_13.JPG": {
+        "filename": "Arts BU Library_13.JPG",
+        "size": 1092745,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 181,
+                    "width": 2586,
+                    "height": 2362
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_14.JPG": {
+        "filename": "Arts BU Library_14.JPG",
+        "size": 1179694,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 203,
+                    "width": 2182,
+                    "height": 2845
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_15.JPG": {
+        "filename": "Arts BU Library_15.JPG",
+        "size": 872071,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 109,
+                    "width": 2451,
+                    "height": 1860
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_16.JPG": {
+        "filename": "Arts BU Library_16.JPG",
+        "size": 1034070,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 78,
+                    "width": 3024,
+                    "height": 1408
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_17.JPG": {
+        "filename": "Arts BU Library_17.JPG",
+        "size": 509223,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 86,
+                    "width": 2028,
+                    "height": 1123
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_18.JPG": {
+        "filename": "Arts BU Library_18.JPG",
+        "size": 926208,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 91,
+                    "width": 3024,
+                    "height": 1191
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_19.JPG": {
+        "filename": "Arts BU Library_19.JPG",
+        "size": 526426,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 61,
+                    "width": 2547,
+                    "height": 976
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_2.JPG": {
+        "filename": "Arts BU Library_2.JPG",
+        "size": 1192065,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 91,
+                    "width": 2515,
+                    "height": 1188
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_20.JPG": {
+        "filename": "Arts BU Library_20.JPG",
+        "size": 806701,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 92,
+                    "width": 2946,
+                    "height": 1115
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_21.JPG": {
+        "filename": "Arts BU Library_21.JPG",
+        "size": 717897,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 92,
+                    "width": 2824,
+                    "height": 1111
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_22.JPG": {
+        "filename": "Arts BU Library_22.JPG",
+        "size": 773585,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 83,
+                    "width": 3005,
+                    "height": 997
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_23.JPG": {
+        "filename": "Arts BU Library_23.JPG",
+        "size": 814967,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 82,
+                    "width": 2701,
+                    "height": 1159
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_24.JPG": {
+        "filename": "Arts BU Library_24.JPG",
+        "size": 658272,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 71,
+                    "width": 2950,
+                    "height": 1072
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_25.JPG": {
+        "filename": "Arts BU Library_25.JPG",
+        "size": 772673,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 89,
+                    "width": 2949,
+                    "height": 1257
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_26.JPG": {
+        "filename": "Arts BU Library_26.JPG",
+        "size": 915526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 109,
+                    "width": 3024,
+                    "height": 1426
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_3.JPG": {
+        "filename": "Arts BU Library_3.JPG",
+        "size": 793414,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 79,
+                    "width": 2821,
+                    "height": 1030
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_4.JPG": {
+        "filename": "Arts BU Library_4.JPG",
+        "size": 1017421,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 80,
+                    "width": 2758,
+                    "height": 969
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_5.JPG": {
+        "filename": "Arts BU Library_5.JPG",
+        "size": 818281,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 65,
+                    "width": 3005,
+                    "height": 1170
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_6.JPG": {
+        "filename": "Arts BU Library_6.JPG",
+        "size": 990473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 79,
+                    "width": 2911,
+                    "height": 1274
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_7.JPG": {
+        "filename": "Arts BU Library_7.JPG",
+        "size": 970960,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 98,
+                    "width": 2872,
+                    "height": 1285
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_8.JPG": {
+        "filename": "Arts BU Library_8.JPG",
+        "size": 684527,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 84,
+                    "width": 2596,
+                    "height": 1347
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Arts BU Library_9.JPG": {
+        "filename": "Arts BU Library_9.JPG",
+        "size": 899020,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 123,
+                    "width": 2941,
+                    "height": 1853
+                },
+                "region_attributes": {
+                    "class": "Arts BU Library"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Ashley Automotive_1.JPG": {
+        "filename": "Ashley Automotive_1.JPG",
+        "size": 753867,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 109,
+                    "width": 1698,
+                    "height": 1747
+                },
+                "region_attributes": {
+                    "class": "Ashley Automotive"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Ashley Automotive_2.JPG": {
+        "filename": "Ashley Automotive_2.JPG",
+        "size": 1069351,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 108,
+                    "width": 2062,
+                    "height": 1842
+                },
+                "region_attributes": {
+                    "class": "Ashley Automotive"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Ashley Automotive_3.JPG": {
+        "filename": "Ashley Automotive_3.JPG",
+        "size": 1328339,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 129,
+                    "width": 2439,
+                    "height": 1948
+                },
+                "region_attributes": {
+                    "class": "Ashley Automotive"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Ashley Automotive_4.JPG": {
+        "filename": "Ashley Automotive_4.JPG",
+        "size": 1259192,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 145,
+                    "width": 2587,
+                    "height": 2033
+                },
+                "region_attributes": {
+                    "class": "Ashley Automotive"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Ashley Automotive_5.JPG": {
+        "filename": "Ashley Automotive_5.JPG",
+        "size": 1104422,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 106,
+                    "width": 2146,
+                    "height": 1808
+                },
+                "region_attributes": {
+                    "class": "Ashley Automotive"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Ashley Automotive_6.JPG": {
+        "filename": "Ashley Automotive_6.JPG",
+        "size": 733133,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 122,
+                    "width": 1632,
+                    "height": 1598
+                },
+                "region_attributes": {
+                    "class": "Ashley Automotive"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_1.JPG": {
+        "filename": "Baboo Ji_1.JPG",
+        "size": 1587906,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 220,
+                    "width": 3004,
+                    "height": 2642
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_2.JPG": {
+        "filename": "Baboo Ji_2.JPG",
+        "size": 1574265,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 161,
+                    "width": 3024,
+                    "height": 2750
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_3.JPG": {
+        "filename": "Baboo Ji_3.JPG",
+        "size": 1737177,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 227,
+                    "width": 3023,
+                    "height": 2958
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_4.JPG": {
+        "filename": "Baboo Ji_4.JPG",
+        "size": 1475949,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 208,
+                    "width": 2550,
+                    "height": 3121
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_5.JPG": {
+        "filename": "Baboo Ji_5.JPG",
+        "size": 1784203,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 250,
+                    "width": 3005,
+                    "height": 3007
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_6.JPG": {
+        "filename": "Baboo Ji_6.JPG",
+        "size": 1382073,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 179,
+                    "width": 2475,
+                    "height": 2864
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_7.JPG": {
+        "filename": "Baboo Ji_7.JPG",
+        "size": 4242258,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Baboo Ji_8.JPG": {
+        "filename": "Baboo Ji_8.JPG",
+        "size": 3799783,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Baboo Ji"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_1.JPG": {
+        "filename": "Block A and Block B Arts university_1.JPG",
+        "size": 2726590,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 165,
+                    "width": 2674,
+                    "height": 2481
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_10.JPG": {
+        "filename": "Block A and Block B Arts university_10.JPG",
+        "size": 6065198,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_11.JPG": {
+        "filename": "Block A and Block B Arts university_11.JPG",
+        "size": 4064807,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 203,
+                    "width": 3007,
+                    "height": 3258
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_12.JPG": {
+        "filename": "Block A and Block B Arts university_12.JPG",
+        "size": 2675291,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 176,
+                    "width": 2242,
+                    "height": 2823
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_13.JPG": {
+        "filename": "Block A and Block B Arts university_13.JPG",
+        "size": 3132586,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 171,
+                    "width": 2594,
+                    "height": 3084
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_14.JPG": {
+        "filename": "Block A and Block B Arts university_14.JPG",
+        "size": 3345261,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 164,
+                    "width": 2981,
+                    "height": 2959
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_15.JPG": {
+        "filename": "Block A and Block B Arts university_15.JPG",
+        "size": 3222801,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 193,
+                    "width": 2783,
+                    "height": 3089
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_16.JPG": {
+        "filename": "Block A and Block B Arts university_16.JPG",
+        "size": 3495861,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 217,
+                    "width": 3007,
+                    "height": 3050
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_17.JPG": {
+        "filename": "Block A and Block B Arts university_17.JPG",
+        "size": 3567741,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 244,
+                    "width": 3001,
+                    "height": 3178
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_18.JPG": {
+        "filename": "Block A and Block B Arts university_18.JPG",
+        "size": 3290397,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 195,
+                    "width": 2850,
+                    "height": 2938
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_19.JPG": {
+        "filename": "Block A and Block B Arts university_19.JPG",
+        "size": 3624152,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 176,
+                    "width": 3024,
+                    "height": 3183
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_2.JPG": {
+        "filename": "Block A and Block B Arts university_2.JPG",
+        "size": 5782488,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_20.JPG": {
+        "filename": "Block A and Block B Arts university_20.JPG",
+        "size": 1995051,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 272,
+                    "width": 2831,
+                    "height": 3272
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_21.JPG": {
+        "filename": "Block A and Block B Arts university_21.JPG",
+        "size": 1802685,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 237,
+                    "width": 2297,
+                    "height": 3323
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_22.JPG": {
+        "filename": "Block A and Block B Arts university_22.JPG",
+        "size": 2375812,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 255,
+                    "width": 3007,
+                    "height": 3319
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_23.JPG": {
+        "filename": "Block A and Block B Arts university_23.JPG",
+        "size": 5813924,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_3.JPG": {
+        "filename": "Block A and Block B Arts university_3.JPG",
+        "size": 5737080,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_4.JPG": {
+        "filename": "Block A and Block B Arts university_4.JPG",
+        "size": 2139481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 164,
+                    "width": 2853,
+                    "height": 2965
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_5.JPG": {
+        "filename": "Block A and Block B Arts university_5.JPG",
+        "size": 2816894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 156,
+                    "width": 3011,
+                    "height": 2502
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_6.JPG": {
+        "filename": "Block A and Block B Arts university_6.JPG",
+        "size": 2326779,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 179,
+                    "width": 2263,
+                    "height": 2328
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_7.JPG": {
+        "filename": "Block A and Block B Arts university_7.JPG",
+        "size": 2870830,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 158,
+                    "width": 2959,
+                    "height": 2534
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_8.JPG": {
+        "filename": "Block A and Block B Arts university_8.JPG",
+        "size": 4556880,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Block A and Block B Arts university_9.JPG": {
+        "filename": "Block A and Block B Arts university_9.JPG",
+        "size": 5924858,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Block A and Block B Arts university"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_1.JPG": {
+        "filename": "Bournemouth Gateway Building_1.JPG",
+        "size": 528519,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 59,
+                    "width": 2476,
+                    "height": 839
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_10.JPG": {
+        "filename": "Bournemouth Gateway Building_10.JPG",
+        "size": 464356,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58,
+                    "y": 93,
+                    "width": 1589,
+                    "height": 1304
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_11.JPG": {
+        "filename": "Bournemouth Gateway Building_11.JPG",
+        "size": 314065,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 64,
+                    "width": 1488,
+                    "height": 832
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_12.JPG": {
+        "filename": "Bournemouth Gateway Building_12.JPG",
+        "size": 308010,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58,
+                    "y": 49,
+                    "width": 1586,
+                    "height": 740
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_13.JPG": {
+        "filename": "Bournemouth Gateway Building_13.JPG",
+        "size": 292945,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 62,
+                    "width": 1673,
+                    "height": 746
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_14.JPG": {
+        "filename": "Bournemouth Gateway Building_14.JPG",
+        "size": 433553,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 74,
+                    "width": 1935,
+                    "height": 890
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_15.JPG": {
+        "filename": "Bournemouth Gateway Building_15.JPG",
+        "size": 425266,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 49,
+                    "width": 2020,
+                    "height": 784
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_16.JPG": {
+        "filename": "Bournemouth Gateway Building_16.JPG",
+        "size": 608944,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 64,
+                    "width": 2187,
+                    "height": 836
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_17.JPG": {
+        "filename": "Bournemouth Gateway Building_17.JPG",
+        "size": 941055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 57,
+                    "width": 2690,
+                    "height": 861
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_18.JPG": {
+        "filename": "Bournemouth Gateway Building_18.JPG",
+        "size": 873246,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 77,
+                    "width": 2868,
+                    "height": 1011
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_19.JPG": {
+        "filename": "Bournemouth Gateway Building_19.JPG",
+        "size": 1114031,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 109,
+                    "width": 3023,
+                    "height": 1869
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_2.JPG": {
+        "filename": "Bournemouth Gateway Building_2.JPG",
+        "size": 554168,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 49,
+                    "width": 1793,
+                    "height": 848
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_20.JPG": {
+        "filename": "Bournemouth Gateway Building_20.JPG",
+        "size": 867012,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 140,
+                    "width": 2588,
+                    "height": 1681
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_21.JPG": {
+        "filename": "Bournemouth Gateway Building_21.JPG",
+        "size": 1196782,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 204,
+                    "width": 2297,
+                    "height": 2456
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_22.JPG": {
+        "filename": "Bournemouth Gateway Building_22.JPG",
+        "size": 999587,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 228,
+                    "width": 1896,
+                    "height": 2975
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_23.JPG": {
+        "filename": "Bournemouth Gateway Building_23.JPG",
+        "size": 4297284,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_24.JPG": {
+        "filename": "Bournemouth Gateway Building_24.JPG",
+        "size": 1521889,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 176,
+                    "width": 3008,
+                    "height": 2998
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_25.JPG": {
+        "filename": "Bournemouth Gateway Building_25.JPG",
+        "size": 894142,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 120,
+                    "width": 2734,
+                    "height": 1684
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_26.JPG": {
+        "filename": "Bournemouth Gateway Building_26.JPG",
+        "size": 914108,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 119,
+                    "width": 3024,
+                    "height": 1673
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_27.JPG": {
+        "filename": "Bournemouth Gateway Building_27.JPG",
+        "size": 640168,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 71,
+                    "width": 2534,
+                    "height": 1294
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_28.JPG": {
+        "filename": "Bournemouth Gateway Building_28.JPG",
+        "size": 618921,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 74,
+                    "width": 2349,
+                    "height": 1123
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_3.JPG": {
+        "filename": "Bournemouth Gateway Building_3.JPG",
+        "size": 613598,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 86,
+                    "width": 2112,
+                    "height": 1208
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_4.JPG": {
+        "filename": "Bournemouth Gateway Building_4.JPG",
+        "size": 899722,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 91,
+                    "width": 2847,
+                    "height": 1369
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_5.JPG": {
+        "filename": "Bournemouth Gateway Building_5.JPG",
+        "size": 976228,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 121,
+                    "width": 2512,
+                    "height": 1819
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_6.JPG": {
+        "filename": "Bournemouth Gateway Building_6.JPG",
+        "size": 1329269,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 182,
+                    "width": 3023,
+                    "height": 2742
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_7.JPG": {
+        "filename": "Bournemouth Gateway Building_7.JPG",
+        "size": 1450603,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 197,
+                    "width": 2436,
+                    "height": 2969
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_8.JPG": {
+        "filename": "Bournemouth Gateway Building_8.JPG",
+        "size": 1346959,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 196,
+                    "width": 2652,
+                    "height": 2945
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Bournemouth Gateway Building_9.JPG": {
+        "filename": "Bournemouth Gateway Building_9.JPG",
+        "size": 730873,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 150,
+                    "width": 1892,
+                    "height": 2255
+                },
+                "region_attributes": {
+                    "class": "Bournemouth Gateway Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_1.JPG": {
+        "filename": "Burley Court Hotel_1.JPG",
+        "size": 1242015,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 154,
+                    "width": 2562,
+                    "height": 2620
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_2.JPG": {
+        "filename": "Burley Court Hotel_2.JPG",
+        "size": 1727499,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 234,
+                    "width": 2602,
+                    "height": 3045
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_3.JPG": {
+        "filename": "Burley Court Hotel_3.JPG",
+        "size": 977358,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 164,
+                    "width": 1721,
+                    "height": 2804
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_4.JPG": {
+        "filename": "Burley Court Hotel_4.JPG",
+        "size": 1534606,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 159,
+                    "width": 2718,
+                    "height": 2870
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_5.JPG": {
+        "filename": "Burley Court Hotel_5.JPG",
+        "size": 1444704,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 212,
+                    "width": 2585,
+                    "height": 2554
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_6.JPG": {
+        "filename": "Burley Court Hotel_6.JPG",
+        "size": 1526678,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 197,
+                    "width": 3004,
+                    "height": 2562
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_7.JPG": {
+        "filename": "Burley Court Hotel_7.JPG",
+        "size": 1388629,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 145,
+                    "width": 3024,
+                    "height": 2472
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_8.JPG": {
+        "filename": "Burley Court Hotel_8.JPG",
+        "size": 1152123,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 206,
+                    "width": 2489,
+                    "height": 2478
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Burley Court Hotel_9.JPG": {
+        "filename": "Burley Court Hotel_9.JPG",
+        "size": 1207898,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 188,
+                    "width": 2196,
+                    "height": 2643
+                },
+                "region_attributes": {
+                    "class": "Burley Court Hotel"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Courtleigh Manor_1.JPG": {
+        "filename": "Courtleigh Manor_1.JPG",
+        "size": 1534144,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 175,
+                    "width": 2359,
+                    "height": 2455
+                },
+                "region_attributes": {
+                    "class": "Courtleigh Manor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Courtleigh Manor_2.JPG": {
+        "filename": "Courtleigh Manor_2.JPG",
+        "size": 1124577,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 165,
+                    "width": 2222,
+                    "height": 2640
+                },
+                "region_attributes": {
+                    "class": "Courtleigh Manor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Courtleigh Manor_3.JPG": {
+        "filename": "Courtleigh Manor_3.JPG",
+        "size": 1271241,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 158,
+                    "width": 2633,
+                    "height": 2851
+                },
+                "region_attributes": {
+                    "class": "Courtleigh Manor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Courtleigh Manor_4.JPG": {
+        "filename": "Courtleigh Manor_4.JPG",
+        "size": 1866590,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 201,
+                    "width": 2724,
+                    "height": 3220
+                },
+                "region_attributes": {
+                    "class": "Courtleigh Manor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Courtleigh Manor_5.JPG": {
+        "filename": "Courtleigh Manor_5.JPG",
+        "size": 2262271,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 153,
+                    "width": 3024,
+                    "height": 2759
+                },
+                "region_attributes": {
+                    "class": "Courtleigh Manor"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_1.JPG": {
+        "filename": "Fairways Care Home_1.JPG",
+        "size": 5256236,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_10.JPG": {
+        "filename": "Fairways Care Home_10.JPG",
+        "size": 1877743,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 136,
+                    "y": 123,
+                    "width": 3547,
+                    "height": 1608
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_11.JPG": {
+        "filename": "Fairways Care Home_11.JPG",
+        "size": 1893307,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 82,
+                    "width": 3805,
+                    "height": 1235
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_12.JPG": {
+        "filename": "Fairways Care Home_12.JPG",
+        "size": 699607,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 68,
+                    "width": 1927,
+                    "height": 893
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_2.JPG": {
+        "filename": "Fairways Care Home_2.JPG",
+        "size": 4010518,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_3.JPG": {
+        "filename": "Fairways Care Home_3.JPG",
+        "size": 4764524,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_4.JPG": {
+        "filename": "Fairways Care Home_4.JPG",
+        "size": 4816454,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_5.JPG": {
+        "filename": "Fairways Care Home_5.JPG",
+        "size": 4995098,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_6.JPG": {
+        "filename": "Fairways Care Home_6.JPG",
+        "size": 4437199,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_7.JPG": {
+        "filename": "Fairways Care Home_7.JPG",
+        "size": 2585678,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 180,
+                    "width": 3024,
+                    "height": 2701
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_8.JPG": {
+        "filename": "Fairways Care Home_8.JPG",
+        "size": 2469972,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 130,
+                    "width": 4032,
+                    "height": 1695
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fairways Care Home_9.JPG": {
+        "filename": "Fairways Care Home_9.JPG",
+        "size": 2730133,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 143,
+                    "y": 134,
+                    "width": 4031,
+                    "height": 1754
+                },
+                "region_attributes": {
+                    "class": "Fairways Care Home"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_1.JPG": {
+        "filename": "Fusion Building_1.JPG",
+        "size": 1113054,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 118,
+                    "width": 3023,
+                    "height": 1660
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_10.JPG": {
+        "filename": "Fusion Building_10.JPG",
+        "size": 2204584,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 207,
+                    "width": 3024,
+                    "height": 2491
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_11.JPG": {
+        "filename": "Fusion Building_11.JPG",
+        "size": 2378795,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112,
+                    "y": 197,
+                    "width": 2923,
+                    "height": 2571
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_12.JPG": {
+        "filename": "Fusion Building_12.JPG",
+        "size": 990602,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 104,
+                    "width": 2322,
+                    "height": 1669
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_13.JPG": {
+        "filename": "Fusion Building_13.JPG",
+        "size": 257475,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 54,
+                    "width": 1338,
+                    "height": 756
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_14.JPG": {
+        "filename": "Fusion Building_14.JPG",
+        "size": 448761,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 40,
+                    "y": 55,
+                    "width": 1100,
+                    "height": 935
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_15.JPG": {
+        "filename": "Fusion Building_15.JPG",
+        "size": 635713,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 106,
+                    "width": 2149,
+                    "height": 1274
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_16.JPG": {
+        "filename": "Fusion Building_16.JPG",
+        "size": 653626,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 68,
+                    "width": 2325,
+                    "height": 1233
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_17.JPG": {
+        "filename": "Fusion Building_17.JPG",
+        "size": 612467,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 109,
+                    "width": 1868,
+                    "height": 1421
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_18.JPG": {
+        "filename": "Fusion Building_18.JPG",
+        "size": 1253094,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 139,
+                    "width": 2558,
+                    "height": 2089
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_19.JPG": {
+        "filename": "Fusion Building_19.JPG",
+        "size": 2514075,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 239,
+                    "width": 3006,
+                    "height": 3119
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_2.JPG": {
+        "filename": "Fusion Building_2.JPG",
+        "size": 1504668,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 129,
+                    "width": 2992,
+                    "height": 2335
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_20.JPG": {
+        "filename": "Fusion Building_20.JPG",
+        "size": 3859117,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 237,
+                    "width": 2845,
+                    "height": 3807
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_21.JPG": {
+        "filename": "Fusion Building_21.JPG",
+        "size": 5849956,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_22.JPG": {
+        "filename": "Fusion Building_22.JPG",
+        "size": 5696488,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_23.JPG": {
+        "filename": "Fusion Building_23.JPG",
+        "size": 4434149,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_24.JPG": {
+        "filename": "Fusion Building_24.JPG",
+        "size": 4364236,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_3.JPG": {
+        "filename": "Fusion Building_3.JPG",
+        "size": 1931318,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 271,
+                    "width": 2943,
+                    "height": 3797
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_4.JPG": {
+        "filename": "Fusion Building_4.JPG",
+        "size": 2398219,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 183,
+                    "width": 3023,
+                    "height": 2932
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_5.JPG": {
+        "filename": "Fusion Building_5.JPG",
+        "size": 2026169,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 116,
+                    "width": 3024,
+                    "height": 1749
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_6.JPG": {
+        "filename": "Fusion Building_6.JPG",
+        "size": 1735985,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 202,
+                    "width": 2662,
+                    "height": 2830
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_7.JPG": {
+        "filename": "Fusion Building_7.JPG",
+        "size": 1233917,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 111,
+                    "width": 2670,
+                    "height": 2006
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_8.JPG": {
+        "filename": "Fusion Building_8.JPG",
+        "size": 682737,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 96,
+                    "width": 1501,
+                    "height": 1450
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Fusion Building_9.JPG": {
+        "filename": "Fusion Building_9.JPG",
+        "size": 1073523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58,
+                    "y": 132,
+                    "width": 2060,
+                    "height": 1719
+                },
+                "region_attributes": {
+                    "class": "Fusion Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_1.JPG": {
+        "filename": "Gorscliff Court_1.JPG",
+        "size": 1516031,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 258,
+                    "width": 2120,
+                    "height": 3100
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_2.JPG": {
+        "filename": "Gorscliff Court_2.JPG",
+        "size": 1075234,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 241,
+                    "width": 1621,
+                    "height": 2893
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_3.JPG": {
+        "filename": "Gorscliff Court_3.JPG",
+        "size": 5119676,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_4.JPG": {
+        "filename": "Gorscliff Court_4.JPG",
+        "size": 4678226,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_5.JPG": {
+        "filename": "Gorscliff Court_5.JPG",
+        "size": 1609910,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 195,
+                    "width": 2309,
+                    "height": 3131
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_6.JPG": {
+        "filename": "Gorscliff Court_6.JPG",
+        "size": 4304126,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_7.JPG": {
+        "filename": "Gorscliff Court_7.JPG",
+        "size": 4405042,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Gorscliff Court_8.JPG": {
+        "filename": "Gorscliff Court_8.JPG",
+        "size": 1889592,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 183,
+                    "width": 2616,
+                    "height": 3111
+                },
+                "region_attributes": {
+                    "class": "Gorscliff Court"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_1.JPG": {
+        "filename": "Minton Lodge Hotels_1.JPG",
+        "size": 1378886,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 110,
+                    "width": 2689,
+                    "height": 1653
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_2.JPG": {
+        "filename": "Minton Lodge Hotels_2.JPG",
+        "size": 1689607,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 104,
+                    "width": 2932,
+                    "height": 1783
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_3.JPG": {
+        "filename": "Minton Lodge Hotels_3.JPG",
+        "size": 1907818,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 155,
+                    "width": 3024,
+                    "height": 1870
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_4.JPG": {
+        "filename": "Minton Lodge Hotels_4.JPG",
+        "size": 1773099,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 115,
+                    "width": 2826,
+                    "height": 1960
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_5.JPG": {
+        "filename": "Minton Lodge Hotels_5.JPG",
+        "size": 1645796,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 115,
+                    "width": 2524,
+                    "height": 1850
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_6.JPG": {
+        "filename": "Minton Lodge Hotels_6.JPG",
+        "size": 1234898,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 111,
+                    "width": 1975,
+                    "height": 1786
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_7.JPG": {
+        "filename": "Minton Lodge Hotels_7.JPG",
+        "size": 1342912,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 108,
+                    "width": 2288,
+                    "height": 1743
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Minton Lodge Hotels_8.JPG": {
+        "filename": "Minton Lodge Hotels_8.JPG",
+        "size": 1197930,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 99,
+                    "width": 2140,
+                    "height": 1696
+                },
+                "region_attributes": {
+                    "class": "Minton Lodge Hotels"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_1.JPG": {
+        "filename": "Noman Motors_1.JPG",
+        "size": 373902,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 98,
+                    "width": 2386,
+                    "height": 1184
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_2.JPG": {
+        "filename": "Noman Motors_2.JPG",
+        "size": 173900,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 47,
+                    "width": 1330,
+                    "height": 617
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_3.JPG": {
+        "filename": "Noman Motors_3.JPG",
+        "size": 769585,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 138,
+                    "width": 3024,
+                    "height": 2078
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_4.JPG": {
+        "filename": "Noman Motors_4.JPG",
+        "size": 556591,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 122,
+                    "width": 2884,
+                    "height": 1841
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_5.JPG": {
+        "filename": "Noman Motors_5.JPG",
+        "size": 884667,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 116,
+                    "y": 147,
+                    "width": 3600,
+                    "height": 1911
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_6.JPG": {
+        "filename": "Noman Motors_6.JPG",
+        "size": 693785,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 74,
+                    "width": 3007,
+                    "height": 1334
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noman Motors_7.JPG": {
+        "filename": "Noman Motors_7.JPG",
+        "size": 749649,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 108,
+                    "width": 3164,
+                    "height": 1305
+                },
+                "region_attributes": {
+                    "class": "Noman Motors"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noodle Bar_1.JPG": {
+        "filename": "Noodle Bar_1.JPG",
+        "size": 1189097,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 231,
+                    "width": 2911,
+                    "height": 2780
+                },
+                "region_attributes": {
+                    "class": "Noodle Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noodle Bar_2.JPG": {
+        "filename": "Noodle Bar_2.JPG",
+        "size": 1117407,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 208,
+                    "width": 2470,
+                    "height": 2922
+                },
+                "region_attributes": {
+                    "class": "Noodle Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noodle Bar_3.JPG": {
+        "filename": "Noodle Bar_3.JPG",
+        "size": 1434944,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 181,
+                    "width": 3434,
+                    "height": 2361
+                },
+                "region_attributes": {
+                    "class": "Noodle Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noodle Bar_4.JPG": {
+        "filename": "Noodle Bar_4.JPG",
+        "size": 4049821,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Noodle Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Noodle Bar_5.JPG": {
+        "filename": "Noodle Bar_5.JPG",
+        "size": 4123111,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Noodle Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Oneils Bournemouth Hidden Gem_1.JPG": {
+        "filename": "Oneils Bournemouth Hidden Gem_1.JPG",
+        "size": 3905924,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Oneils Bournemouth Hidden Gem"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Oneils Bournemouth Hidden Gem_2.JPG": {
+        "filename": "Oneils Bournemouth Hidden Gem_2.JPG",
+        "size": 1085164,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 185,
+                    "width": 2710,
+                    "height": 2228
+                },
+                "region_attributes": {
+                    "class": "Oneils Bournemouth Hidden Gem"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Oneils Bournemouth Hidden Gem_3.JPG": {
+        "filename": "Oneils Bournemouth Hidden Gem_3.JPG",
+        "size": 3538218,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Oneils Bournemouth Hidden Gem"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Oneils Bournemouth Hidden Gem_4.JPG": {
+        "filename": "Oneils Bournemouth Hidden Gem_4.JPG",
+        "size": 3482627,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Oneils Bournemouth Hidden Gem"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Oneils Bournemouth Hidden Gem_5.JPG": {
+        "filename": "Oneils Bournemouth Hidden Gem_5.JPG",
+        "size": 3633666,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Oneils Bournemouth Hidden Gem"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Pets Corner_1.JPG": {
+        "filename": "Pets Corner_1.JPG",
+        "size": 3709904,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Pets Corner"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Pets Corner_2.JPG": {
+        "filename": "Pets Corner_2.JPG",
+        "size": 3183825,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Pets Corner"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Pets Corner_3.JPG": {
+        "filename": "Pets Corner_3.JPG",
+        "size": 3251452,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Pets Corner"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Pets Corner_4.JPG": {
+        "filename": "Pets Corner_4.JPG",
+        "size": 2704494,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Pets Corner"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Pets Corner_5.JPG": {
+        "filename": "Pets Corner_5.JPG",
+        "size": 746213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 85,
+                    "width": 2029,
+                    "height": 1541
+                },
+                "region_attributes": {
+                    "class": "Pets Corner"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_1.JPG": {
+        "filename": "St John Boscombe_1.JPG",
+        "size": 1967924,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 187,
+                    "width": 3005,
+                    "height": 2996
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_2.JPG": {
+        "filename": "St John Boscombe_2.JPG",
+        "size": 1668156,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 223,
+                    "width": 2647,
+                    "height": 3127
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_3.JPG": {
+        "filename": "St John Boscombe_3.JPG",
+        "size": 1429129,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 205,
+                    "width": 2881,
+                    "height": 2877
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_4.JPG": {
+        "filename": "St John Boscombe_4.JPG",
+        "size": 2062653,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 227,
+                    "width": 2906,
+                    "height": 2957
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_5.JPG": {
+        "filename": "St John Boscombe_5.JPG",
+        "size": 2134240,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 245,
+                    "width": 2966,
+                    "height": 2941
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_6.JPG": {
+        "filename": "St John Boscombe_6.JPG",
+        "size": 2530725,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 149,
+                    "width": 3664,
+                    "height": 2541
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_7.JPG": {
+        "filename": "St John Boscombe_7.JPG",
+        "size": 4026860,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "St John Boscombe_8.JPG": {
+        "filename": "St John Boscombe_8.JPG",
+        "size": 3873749,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "St John Boscombe"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_1.JPG": {
+        "filename": "The Artisans_1.JPG",
+        "size": 1251324,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 187,
+                    "width": 2694,
+                    "height": 2813
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_2.JPG": {
+        "filename": "The Artisans_2.JPG",
+        "size": 1322076,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 217,
+                    "width": 2338,
+                    "height": 2830
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_3.JPG": {
+        "filename": "The Artisans_3.JPG",
+        "size": 2784537,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_4.JPG": {
+        "filename": "The Artisans_4.JPG",
+        "size": 1473252,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 234,
+                    "width": 3006,
+                    "height": 3513
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_5.JPG": {
+        "filename": "The Artisans_5.JPG",
+        "size": 2884324,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_6.JPG": {
+        "filename": "The Artisans_6.JPG",
+        "size": 3301245,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_7.JPG": {
+        "filename": "The Artisans_7.JPG",
+        "size": 3406654,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Artisans_8.JPG": {
+        "filename": "The Artisans_8.JPG",
+        "size": 3404062,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Artisans"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_1.JPG": {
+        "filename": "The Gallery Arts University_1.JPG",
+        "size": 5865892,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_10.JPG": {
+        "filename": "The Gallery Arts University_10.JPG",
+        "size": 3817811,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_11.JPG": {
+        "filename": "The Gallery Arts University_11.JPG",
+        "size": 1515830,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 306,
+                    "width": 2298,
+                    "height": 3986
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_12.JPG": {
+        "filename": "The Gallery Arts University_12.JPG",
+        "size": 1419602,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 190,
+                    "width": 2263,
+                    "height": 2671
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_13.JPG": {
+        "filename": "The Gallery Arts University_13.JPG",
+        "size": 1715424,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 207,
+                    "width": 2593,
+                    "height": 3108
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_14.JPG": {
+        "filename": "The Gallery Arts University_14.JPG",
+        "size": 1996369,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 268,
+                    "width": 2306,
+                    "height": 4032
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_15.JPG": {
+        "filename": "The Gallery Arts University_15.JPG",
+        "size": 4198919,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_16.JPG": {
+        "filename": "The Gallery Arts University_16.JPG",
+        "size": 7101582,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_17.JPG": {
+        "filename": "The Gallery Arts University_17.JPG",
+        "size": 2142418,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 240,
+                    "width": 3007,
+                    "height": 3361
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_18.JPG": {
+        "filename": "The Gallery Arts University_18.JPG",
+        "size": 2145446,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 245,
+                    "width": 2563,
+                    "height": 3932
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_2.JPG": {
+        "filename": "The Gallery Arts University_2.JPG",
+        "size": 5465790,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_3.JPG": {
+        "filename": "The Gallery Arts University_3.JPG",
+        "size": 4326966,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_4.JPG": {
+        "filename": "The Gallery Arts University_4.JPG",
+        "size": 4846852,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_5.JPG": {
+        "filename": "The Gallery Arts University_5.JPG",
+        "size": 4156605,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_6.JPG": {
+        "filename": "The Gallery Arts University_6.JPG",
+        "size": 3189283,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_7.JPG": {
+        "filename": "The Gallery Arts University_7.JPG",
+        "size": 1625581,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 135,
+                    "width": 3023,
+                    "height": 2447
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_8.JPG": {
+        "filename": "The Gallery Arts University_8.JPG",
+        "size": 1807968,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 182,
+                    "width": 3011,
+                    "height": 2558
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Gallery Arts University_9.JPG": {
+        "filename": "The Gallery Arts University_9.JPG",
+        "size": 1689032,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 174,
+                    "width": 2847,
+                    "height": 2788
+                },
+                "region_attributes": {
+                    "class": "The Gallery Arts University"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_1.JPG": {
+        "filename": "The Kings Arms Bar_1.JPG",
+        "size": 4432614,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_2.JPG": {
+        "filename": "The Kings Arms Bar_2.JPG",
+        "size": 4253068,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_3.JPG": {
+        "filename": "The Kings Arms Bar_3.JPG",
+        "size": 5259718,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_4.JPG": {
+        "filename": "The Kings Arms Bar_4.JPG",
+        "size": 5938618,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_5.JPG": {
+        "filename": "The Kings Arms Bar_5.JPG",
+        "size": 4275580,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_6.JPG": {
+        "filename": "The Kings Arms Bar_6.JPG",
+        "size": 4247040,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "The Kings Arms Bar_7.JPG": {
+        "filename": "The Kings Arms Bar_7.JPG",
+        "size": 4658912,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "The Kings Arms Bar"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_1.JPG": {
+        "filename": "Time Bomb Tattoo Studio_1.JPG",
+        "size": 2969985,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_2.JPG": {
+        "filename": "Time Bomb Tattoo Studio_2.JPG",
+        "size": 3431190,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_3.JPG": {
+        "filename": "Time Bomb Tattoo Studio_3.JPG",
+        "size": 4024965,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_4.JPG": {
+        "filename": "Time Bomb Tattoo Studio_4.JPG",
+        "size": 4361754,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 201,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_5.JPG": {
+        "filename": "Time Bomb Tattoo Studio_5.JPG",
+        "size": 4020965,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_6.JPG": {
+        "filename": "Time Bomb Tattoo Studio_6.JPG",
+        "size": 3823400,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_7.JPG": {
+        "filename": "Time Bomb Tattoo Studio_7.JPG",
+        "size": 3831031,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 177,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Time Bomb Tattoo Studio_8.JPG": {
+        "filename": "Time Bomb Tattoo Studio_8.JPG",
+        "size": 3556427,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 252,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Time Bomb Tattoo Studio"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_1.JPG": {
+        "filename": "Tolpuddle Annex 2_1.JPG",
+        "size": 1991531,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 262,
+                    "width": 2381,
+                    "height": 3936
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_10.JPG": {
+        "filename": "Tolpuddle Annex 2_10.JPG",
+        "size": 644411,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 67,
+                    "width": 2710,
+                    "height": 1075
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_11.JPG": {
+        "filename": "Tolpuddle Annex 2_11.JPG",
+        "size": 460540,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 80,
+                    "width": 2866,
+                    "height": 966
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_12.JPG": {
+        "filename": "Tolpuddle Annex 2_12.JPG",
+        "size": 690526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 119,
+                    "width": 2755,
+                    "height": 1439
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_13.JPG": {
+        "filename": "Tolpuddle Annex 2_13.JPG",
+        "size": 1013514,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 177,
+                    "width": 3008,
+                    "height": 2127
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_14.JPG": {
+        "filename": "Tolpuddle Annex 2_14.JPG",
+        "size": 572965,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 119,
+                    "width": 2422,
+                    "height": 1554
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_15.JPG": {
+        "filename": "Tolpuddle Annex 2_15.JPG",
+        "size": 893752,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 136,
+                    "width": 3024,
+                    "height": 1917
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_16.JPG": {
+        "filename": "Tolpuddle Annex 2_16.JPG",
+        "size": 220480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 36,
+                    "width": 1966,
+                    "height": 584
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_17.JPG": {
+        "filename": "Tolpuddle Annex 2_17.JPG",
+        "size": 185196,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 36,
+                    "width": 1579,
+                    "height": 619
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_18.JPG": {
+        "filename": "Tolpuddle Annex 2_18.JPG",
+        "size": 233430,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 39,
+                    "width": 1694,
+                    "height": 706
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_19.JPG": {
+        "filename": "Tolpuddle Annex 2_19.JPG",
+        "size": 564517,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 59,
+                    "width": 2658,
+                    "height": 1070
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_2.JPG": {
+        "filename": "Tolpuddle Annex 2_2.JPG",
+        "size": 1467133,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 149,
+                    "width": 2953,
+                    "height": 2399
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_20.JPG": {
+        "filename": "Tolpuddle Annex 2_20.JPG",
+        "size": 539833,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 58,
+                    "width": 2858,
+                    "height": 821
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_21.JPG": {
+        "filename": "Tolpuddle Annex 2_21.JPG",
+        "size": 450693,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 65,
+                    "width": 2606,
+                    "height": 783
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_3.JPG": {
+        "filename": "Tolpuddle Annex 2_3.JPG",
+        "size": 1343467,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 168,
+                    "width": 3023,
+                    "height": 2354
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_4.JPG": {
+        "filename": "Tolpuddle Annex 2_4.JPG",
+        "size": 2106037,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 120,
+                    "y": 307,
+                    "width": 3024,
+                    "height": 3688
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_5.JPG": {
+        "filename": "Tolpuddle Annex 2_5.JPG",
+        "size": 4252819,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_6.JPG": {
+        "filename": "Tolpuddle Annex 2_6.JPG",
+        "size": 1152551,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 140,
+                    "width": 3007,
+                    "height": 2103
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_7.JPG": {
+        "filename": "Tolpuddle Annex 2_7.JPG",
+        "size": 859384,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 126,
+                    "width": 2623,
+                    "height": 2152
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_8.JPG": {
+        "filename": "Tolpuddle Annex 2_8.JPG",
+        "size": 978595,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 116,
+                    "y": 132,
+                    "width": 3024,
+                    "height": 2124
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 2_9.JPG": {
+        "filename": "Tolpuddle Annex 2_9.JPG",
+        "size": 381985,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 54,
+                    "width": 2388,
+                    "height": 934
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 2"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_1.JPG": {
+        "filename": "Tolpuddle Annex 3_1.JPG",
+        "size": 699064,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 111,
+                    "width": 2666,
+                    "height": 1447
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_10.JPG": {
+        "filename": "Tolpuddle Annex 3_10.JPG",
+        "size": 1691532,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 160,
+                    "width": 2836,
+                    "height": 2087
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_11.JPG": {
+        "filename": "Tolpuddle Annex 3_11.JPG",
+        "size": 405746,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 71,
+                    "width": 1638,
+                    "height": 1138
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_12.JPG": {
+        "filename": "Tolpuddle Annex 3_12.JPG",
+        "size": 369391,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 68,
+                    "width": 1696,
+                    "height": 895
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_13.JPG": {
+        "filename": "Tolpuddle Annex 3_13.JPG",
+        "size": 321069,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 45,
+                    "width": 1907,
+                    "height": 778
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_14.JPG": {
+        "filename": "Tolpuddle Annex 3_14.JPG",
+        "size": 234888,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 36,
+                    "width": 1822,
+                    "height": 613
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_15.JPG": {
+        "filename": "Tolpuddle Annex 3_15.JPG",
+        "size": 403100,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 45,
+                    "width": 1884,
+                    "height": 812
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_16.JPG": {
+        "filename": "Tolpuddle Annex 3_16.JPG",
+        "size": 436940,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 67,
+                    "width": 2276,
+                    "height": 877
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_17.JPG": {
+        "filename": "Tolpuddle Annex 3_17.JPG",
+        "size": 284104,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 38,
+                    "width": 2016,
+                    "height": 650
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_18.JPG": {
+        "filename": "Tolpuddle Annex 3_18.JPG",
+        "size": 511571,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 60,
+                    "width": 1960,
+                    "height": 786
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_19.JPG": {
+        "filename": "Tolpuddle Annex 3_19.JPG",
+        "size": 284735,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 38,
+                    "width": 1737,
+                    "height": 691
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_2.JPG": {
+        "filename": "Tolpuddle Annex 3_2.JPG",
+        "size": 561978,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 83,
+                    "width": 2269,
+                    "height": 1420
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_20.JPG": {
+        "filename": "Tolpuddle Annex 3_20.JPG",
+        "size": 289477,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 51,
+                    "width": 1787,
+                    "height": 670
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_21.JPG": {
+        "filename": "Tolpuddle Annex 3_21.JPG",
+        "size": 257571,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 54,
+                    "width": 1841,
+                    "height": 657
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_22.JPG": {
+        "filename": "Tolpuddle Annex 3_22.JPG",
+        "size": 382170,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 68,
+                    "width": 2334,
+                    "height": 1031
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_23.JPG": {
+        "filename": "Tolpuddle Annex 3_23.JPG",
+        "size": 417942,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 83,
+                    "width": 2381,
+                    "height": 1001
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_3.JPG": {
+        "filename": "Tolpuddle Annex 3_3.JPG",
+        "size": 905913,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 133,
+                    "width": 2368,
+                    "height": 2404
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_4.JPG": {
+        "filename": "Tolpuddle Annex 3_4.JPG",
+        "size": 659521,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 164,
+                    "width": 1981,
+                    "height": 2467
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_5.JPG": {
+        "filename": "Tolpuddle Annex 3_5.JPG",
+        "size": 2039433,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 206,
+                    "width": 2993,
+                    "height": 3509
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_6.JPG": {
+        "filename": "Tolpuddle Annex 3_6.JPG",
+        "size": 1488214,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 133,
+                    "width": 2967,
+                    "height": 2269
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_7.JPG": {
+        "filename": "Tolpuddle Annex 3_7.JPG",
+        "size": 855854,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 103,
+                    "width": 2718,
+                    "height": 1557
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_8.JPG": {
+        "filename": "Tolpuddle Annex 3_8.JPG",
+        "size": 1500226,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 143,
+                    "width": 2097,
+                    "height": 2583
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Tolpuddle Annex 3_9.JPG": {
+        "filename": "Tolpuddle Annex 3_9.JPG",
+        "size": 1877851,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 145,
+                    "width": 3006,
+                    "height": 2327
+                },
+                "region_attributes": {
+                    "class": "Tolpuddle Annex 3"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_1.JPG": {
+        "filename": "Wallisdown Sports Building_1.JPG",
+        "size": 2803628,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 168,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_2.JPG": {
+        "filename": "Wallisdown Sports Building_2.JPG",
+        "size": 2463911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_3.JPG": {
+        "filename": "Wallisdown Sports Building_3.JPG",
+        "size": 2949773,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_4.JPG": {
+        "filename": "Wallisdown Sports Building_4.JPG",
+        "size": 2993627,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_5.JPG": {
+        "filename": "Wallisdown Sports Building_5.JPG",
+        "size": 2799031,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_6.JPG": {
+        "filename": "Wallisdown Sports Building_6.JPG",
+        "size": 5806568,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 216,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_7.JPG": {
+        "filename": "Wallisdown Sports Building_7.JPG",
+        "size": 5695340,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 232,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Wallisdown Sports Building_8.JPG": {
+        "filename": "Wallisdown Sports Building_8.JPG",
+        "size": 4977044,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 189,
+                    "width": 4032,
+                    "height": 3024
+                },
+                "region_attributes": {
+                    "class": "Wallisdown Sports Building"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+    
+}
